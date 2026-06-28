@@ -1,4 +1,5 @@
 import { test, expect } from '../fixtures/baseTest.js';
+import { users } from '../fixtures/testData.js';
 
 test.describe('Login Module', () => {
 
